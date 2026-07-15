@@ -24,46 +24,6 @@ A production-quality, full-stack internet performance monitoring suite built in 
 
 ---
 
-## 📁 Project Structure
-
-```
-internet-performance-monitor/
-├── app.py                     # CLI entry point (desktop/streamlit/dash/test/monitor)
-├── launcher.py                 # Interactive terminal launcher menu
-├── requirements.txt
-├── README.md
-├── LICENSE
-├── database/
-│   ├── internet.db             # SQLite database (created at runtime)
-│   └── schema.sql              # Schema definition
-├── config/
-│   ├── constants.py             # Thresholds, enums, static config
-│   ├── theme.py                  # Shared color palette / typography / QSS / CSS
-│   └── settings.py               # Persisted user settings (JSON-backed)
-├── core/
-│   ├── download_test.py / upload_test.py
-│   ├── ping_test.py / jitter.py / packet_loss.py
-│   ├── network_info.py           # ISP / IP / server detection
-│   ├── internet_health.py        # Weighted health score engine
-│   ├── statistics.py             # Analytics / descriptive stats engine
-│   ├── scheduler.py              # APScheduler-based test orchestration
-│   ├── exporter.py               # CSV / JSON export
-│   ├── notifier.py               # Plyer desktop notifications
-│   └── database.py               # SQLite persistence layer
-├── dashboard/
-│   ├── streamlit_dashboard.py
-│   ├── dash_dashboard.py
-│   ├── charts.py / cards.py / analytics.py / theme.py
-├── desktop/
-│   ├── main_window.py / gauges.py / widgets.py
-│   ├── sidebar.py / history.py / settings.py / styles.py
-├── utils/
-│   ├── helpers.py / validators.py / logger.py / formatter.py
-├── tests/
-│   └── test_*.py                 # unittest suite
-├── exports/                      # Generated CSV/JSON reports
-└── logs/                         # Rotating application logs
-```
 
 ---
 
