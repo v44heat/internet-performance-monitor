@@ -1,0 +1,330 @@
+2026-07-13 13:00:25 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:00:30 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:00:31 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:00:32 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:00:32 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:01:00 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:01:01 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:01:02 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:01:02 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:01:03 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:01:03 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:01:04 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:02:42 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:02:45 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:02:54 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:02:55 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:07 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:08 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:09 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:10 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:10 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:10 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:10 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:11 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:11 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:37 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:37 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:38 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:38 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:39 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:40 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:41 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:04:13 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden

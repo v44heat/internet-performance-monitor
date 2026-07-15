@@ -1,0 +1,603 @@
+2026-07-13 13:00:11 | INFO     | core.database | Database schema initialized at C:\Users\Administrator\Desktop\internet-performance-monitor\database\internet.db
+2026-07-13 13:00:25 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:00:25 | WARNING  | desktop.main_window | Test failed: HTTP Error 403: Forbidden
+2026-07-13 13:00:30 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:00:30 | WARNING  | desktop.main_window | Test failed: HTTP Error 403: Forbidden
+2026-07-13 13:00:31 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:00:31 | WARNING  | desktop.main_window | Test failed: HTTP Error 403: Forbidden
+2026-07-13 13:00:32 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:00:32 | WARNING  | desktop.main_window | Test failed: HTTP Error 403: Forbidden
+2026-07-13 13:00:32 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:00:32 | WARNING  | desktop.main_window | Test failed: HTTP Error 403: Forbidden
+2026-07-13 13:01:00 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:01:00 | WARNING  | desktop.main_window | Test failed: HTTP Error 403: Forbidden
+2026-07-13 13:01:01 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:01:01 | WARNING  | desktop.main_window | Test failed: HTTP Error 403: Forbidden
+2026-07-13 13:01:02 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:01:02 | WARNING  | desktop.main_window | Test failed: HTTP Error 403: Forbidden
+2026-07-13 13:01:02 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:01:02 | WARNING  | desktop.main_window | Test failed: HTTP Error 403: Forbidden
+2026-07-13 13:01:03 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:01:03 | WARNING  | desktop.main_window | Test failed: HTTP Error 403: Forbidden
+2026-07-13 13:01:03 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:01:03 | WARNING  | desktop.main_window | Test failed: HTTP Error 403: Forbidden
+2026-07-13 13:01:04 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:01:04 | WARNING  | desktop.main_window | Test failed: HTTP Error 403: Forbidden
+2026-07-13 13:02:34 | INFO     | core.database | Database schema initialized at C:\Users\Administrator\Desktop\internet-performance-monitor\database\internet.db
+2026-07-13 13:02:42 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:02:45 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:02:54 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:02:55 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:07 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:08 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:09 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:10 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:10 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:10 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:10 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:11 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:11 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:21 | INFO     | core.statistics | Computing analytics for 2026-07-13T12:03:21.855104 -> 2026-07-13T13:03:21.855104 (0 records)
+2026-07-13 13:03:32 | INFO     | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-07-13 13:03:32 | INFO     | apscheduler.scheduler | Added job "MonitorScheduler._job" to job store "default"
+2026-07-13 13:03:32 | INFO     | apscheduler.scheduler | Scheduler started
+2026-07-13 13:03:32 | INFO     | core.scheduler | Monitoring scheduler started with interval=300s
+2026-07-13 13:03:37 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:37 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:38 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:38 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:39 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:40 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:03:41 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 13:04:12 | INFO     | core.database | Database schema initialized at C:\Users\Administrator\Desktop\internet-performance-monitor\database\internet.db
+2026-07-13 13:04:13 | ERROR    | core.scheduler | Unexpected error during test cycle
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\core\scheduler.py", line 76, in run_full_test
+    client = speedtest.Speedtest()
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1095, in __init__
+    self.get_config()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Users\Administrator\Desktop\internet-performance-monitor\venv\Lib\site-packages\speedtest.py", line 1127, in get_config
+    raise ConfigRetrievalError(e)
+speedtest.ConfigRetrievalError: HTTP Error 403: Forbidden
+2026-07-13 14:05:13 | INFO     | core.database | Database schema initialized at C:\Users\Administrator\Desktop\internet-performance-monitor\database\internet.db
+2026-07-13 14:05:13 | INFO     | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-07-13 14:05:13 | INFO     | apscheduler.scheduler | Added job "MonitorScheduler._job" to job store "default"
+2026-07-13 14:05:13 | INFO     | apscheduler.scheduler | Scheduler started
+2026-07-13 14:05:13 | INFO     | core.scheduler | Monitoring scheduler started with interval=300s
+2026-07-13 14:05:46 | INFO     | apscheduler.scheduler | Scheduler has been shut down
+2026-07-13 14:06:16 | INFO     | core.database | Database schema initialized at C:\Users\Administrator\Desktop\internet-performance-monitor\database\internet.db
+2026-07-13 14:06:17 | INFO     | dash.dash | Dash is running on http://127.0.0.1:8050/
+
+2026-07-13 14:06:17 | INFO     | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+2026-07-13 14:06:17 | INFO     | werkzeug | [33mPress CTRL+C to quit[0m
+2026-07-13 14:06:46 | INFO     | core.database | Database schema initialized at C:\Users\Administrator\Desktop\internet-performance-monitor\database\internet.db
+2026-07-13 14:14:35 | INFO     | core.download_test | Starting download speed test
+2026-07-13 14:14:46 | INFO     | core.download_test | Download test complete: 4.47 Mbps (Poor)
+2026-07-13 14:14:46 | INFO     | core.upload_test | Starting upload speed test
+2026-07-13 14:14:57 | INFO     | core.upload_test | Upload test complete: 4.45 Mbps (Poor)
+2026-07-13 14:14:57 | INFO     | core.ping_test | Pinging host 8.8.8.8 (10 samples)
+2026-07-13 14:14:59 | INFO     | core.ping_test | Ping test complete via 8.8.8.8: 280.95 ms avg (Poor)
+2026-07-13 14:14:59 | INFO     | core.jitter | Jitter computed: avg=548.90 min=13.39 max=2042.85 current=20.63 (Poor)
+2026-07-13 14:14:59 | INFO     | core.packet_loss | Starting packet loss test against 8.8.8.8 (20 packets)
+2026-07-13 14:15:00 | INFO     | core.packet_loss | Packet loss test complete: 0.0% (0/20 lost) (Excellent)
+2026-07-13 14:15:00 | INFO     | core.network_info | Network info detected: ISP=Unknown IP=102.205.238.2 Server=Zuku
+2026-07-13 14:15:00 | INFO     | core.internet_health | Health score computed: 18.6 (Poor) [dl=0.04 ul=0.11 ping=0.00 jitter=0.00 loss=1.00]
+2026-07-13 14:15:00 | INFO     | core.database | Inserted test result id=1
+2026-07-13 14:15:00 | INFO     | core.notifier | Notification sent: Poor Internet Quality - Download: 4.5 Mbps, Upload: 4.5 Mbps — below your thresholds.
+2026-07-13 14:15:00 | INFO     | core.notifier | Notification sent: High Ping Detected - Current ping is 281 ms, above your 100 ms threshold.
+2026-07-13 14:15:00 | INFO     | core.scheduler | Full test cycle completed successfully, score=18.6
+2026-07-13 14:17:16 | INFO     | core.download_test | Starting download speed test
+2026-07-13 14:17:27 | INFO     | core.download_test | Download test complete: 4.39 Mbps (Poor)
+2026-07-13 14:17:27 | INFO     | core.upload_test | Starting upload speed test
+2026-07-13 14:17:38 | INFO     | core.upload_test | Upload test complete: 4.79 Mbps (Poor)
+2026-07-13 14:17:38 | INFO     | core.ping_test | Pinging host 8.8.8.8 (10 samples)
+2026-07-13 14:17:40 | INFO     | core.ping_test | Ping test complete via 8.8.8.8: 30.49 ms avg (Good)
+2026-07-13 14:17:40 | INFO     | core.jitter | Jitter computed: avg=7.55 min=0.25 max=18.24 current=18.24 (Good)
+2026-07-13 14:17:40 | INFO     | core.packet_loss | Starting packet loss test against 8.8.8.8 (20 packets)
+2026-07-13 14:17:41 | INFO     | core.packet_loss | Packet loss test complete: 0.0% (0/20 lost) (Excellent)
+2026-07-13 14:17:41 | INFO     | core.network_info | Network info detected: ISP=Unknown IP=102.205.238.2 Server=VGG Connect Ltd
+2026-07-13 14:17:41 | INFO     | core.internet_health | Health score computed: 48.8 (Average) [dl=0.04 ul=0.12 ping=0.85 jitter=0.87 loss=1.00]
+2026-07-13 14:17:41 | INFO     | core.database | Inserted test result id=2
+2026-07-13 14:17:41 | INFO     | core.scheduler | Full test cycle completed successfully, score=48.8
+2026-07-13 14:20:37 | INFO     | core.download_test | Starting download speed test
+2026-07-13 14:20:47 | INFO     | core.download_test | Download test complete: 4.64 Mbps (Poor)
+2026-07-13 14:20:47 | INFO     | core.upload_test | Starting upload speed test
+2026-07-13 14:20:58 | INFO     | core.upload_test | Upload test complete: 4.60 Mbps (Poor)
+2026-07-13 14:20:58 | INFO     | core.ping_test | Pinging host 8.8.8.8 (10 samples)
+2026-07-13 14:21:01 | INFO     | core.ping_test | Ping test complete via 8.8.8.8: 32.83 ms avg (Good)
+2026-07-13 14:21:01 | INFO     | core.jitter | Jitter computed: avg=4.57 min=0.22 max=20.96 current=9.19 (Excellent)
+2026-07-13 14:21:01 | INFO     | core.packet_loss | Starting packet loss test against 8.8.8.8 (20 packets)
+2026-07-13 14:21:01 | INFO     | core.packet_loss | Packet loss test complete: 0.0% (0/20 lost) (Excellent)
+2026-07-13 14:21:01 | INFO     | core.network_info | Network info detected: ISP=Unknown IP=102.205.238.2 Server=VGG Connect Ltd
+2026-07-13 14:21:01 | INFO     | core.internet_health | Health score computed: 49.3 (Average) [dl=0.05 ul=0.11 ping=0.84 jitter=0.92 loss=1.00]
+2026-07-13 14:21:01 | INFO     | core.database | Inserted test result id=3
+2026-07-13 14:21:01 | INFO     | core.notifier | Notification sent: Poor Internet Quality - Download: 4.6 Mbps, Upload: 4.6 Mbps — below your thresholds.
+2026-07-13 14:21:01 | INFO     | core.scheduler | Full test cycle completed successfully, score=49.3
+2026-07-13 14:21:26 | INFO     | core.download_test | Starting download speed test
+2026-07-13 14:21:38 | INFO     | core.download_test | Download test complete: 3.88 Mbps (Poor)
+2026-07-13 14:21:38 | INFO     | core.upload_test | Starting upload speed test
+2026-07-13 14:21:49 | INFO     | core.upload_test | Upload test complete: 4.49 Mbps (Poor)
+2026-07-13 14:21:49 | INFO     | core.ping_test | Pinging host 8.8.8.8 (10 samples)
+2026-07-13 14:21:49 | INFO     | core.ping_test | Ping test complete via 8.8.8.8: 33.42 ms avg (Good)
+2026-07-13 14:21:49 | INFO     | core.jitter | Jitter computed: avg=2.03 min=0.39 max=2.69 current=2.50 (Excellent)
+2026-07-13 14:21:49 | INFO     | core.packet_loss | Starting packet loss test against 8.8.8.8 (20 packets)
+2026-07-13 14:21:50 | INFO     | core.packet_loss | Packet loss test complete: 0.0% (0/20 lost) (Excellent)
+2026-07-13 14:21:50 | INFO     | core.network_info | Network info detected: ISP=Unknown IP=102.205.238.2 Server=Zuku
+2026-07-13 14:21:50 | INFO     | core.internet_health | Health score computed: 49.6 (Average) [dl=0.04 ul=0.11 ping=0.83 jitter=0.97 loss=1.00]
+2026-07-13 14:21:50 | INFO     | core.database | Inserted test result id=4
+2026-07-13 14:21:50 | INFO     | core.scheduler | Full test cycle completed successfully, score=49.6
+2026-07-13 14:23:58 | INFO     | core.database | Database schema initialized at C:\Users\Administrator\Desktop\internet-performance-monitor\database\internet.db
+2026-07-13 14:23:58 | INFO     | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-07-13 14:23:58 | INFO     | apscheduler.scheduler | Added job "MonitorScheduler._job" to job store "default"
+2026-07-13 14:23:58 | INFO     | apscheduler.scheduler | Scheduler started
+2026-07-13 14:23:58 | INFO     | core.scheduler | Monitoring scheduler started with interval=300s
+2026-07-13 14:24:18 | INFO     | apscheduler.scheduler | Scheduler has been shut down
+2026-07-13 14:24:27 | INFO     | core.database | Database schema initialized at C:\Users\Administrator\Desktop\internet-performance-monitor\database\internet.db
+2026-07-13 14:24:30 | INFO     | core.download_test | Starting download speed test
+2026-07-13 14:24:41 | INFO     | core.download_test | Download test complete: 4.07 Mbps (Poor)
+2026-07-13 14:24:41 | INFO     | core.upload_test | Starting upload speed test
+2026-07-13 14:24:52 | INFO     | core.upload_test | Upload test complete: 4.38 Mbps (Poor)
+2026-07-13 14:24:52 | INFO     | core.ping_test | Pinging host 8.8.8.8 (10 samples)
+2026-07-13 14:24:53 | INFO     | core.ping_test | Ping test complete via 8.8.8.8: 39.71 ms avg (Good)
+2026-07-13 14:24:53 | INFO     | core.jitter | Jitter computed: avg=4.04 min=0.21 max=17.40 current=2.47 (Excellent)
+2026-07-13 14:24:53 | INFO     | core.packet_loss | Starting packet loss test against 8.8.8.8 (20 packets)
+2026-07-13 14:24:53 | INFO     | core.packet_loss | Packet loss test complete: 0.0% (0/20 lost) (Excellent)
+2026-07-13 14:24:54 | INFO     | core.network_info | Network info detected: ISP=Unknown IP=102.205.238.2 Server=Zuku
+2026-07-13 14:24:54 | INFO     | core.internet_health | Health score computed: 48.4 (Average) [dl=0.04 ul=0.11 ping=0.80 jitter=0.93 loss=1.00]
+2026-07-13 14:24:54 | INFO     | core.database | Inserted test result id=5
+2026-07-13 14:24:54 | INFO     | core.notifier | Notification sent: Poor Internet Quality - Download: 4.1 Mbps, Upload: 4.4 Mbps — below your thresholds.
+2026-07-13 14:24:54 | INFO     | core.scheduler | Full test cycle completed successfully, score=48.4
+2026-07-13 14:25:19 | INFO     | core.database | Database schema initialized at C:\Users\Administrator\Desktop\internet-performance-monitor\database\internet.db
+2026-07-13 14:25:20 | INFO     | dash.dash | Dash is running on http://127.0.0.1:8050/
+
+2026-07-13 14:25:20 | INFO     | werkzeug | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8050
+2026-07-13 14:25:20 | INFO     | werkzeug | [33mPress CTRL+C to quit[0m
+2026-07-13 14:25:43 | INFO     | core.database | Database schema initialized at C:\Users\Administrator\Desktop\internet-performance-monitor\database\internet.db
+2026-07-13 14:25:51 | INFO     | core.download_test | Starting download speed test
+2026-07-13 14:26:01 | INFO     | core.download_test | Download test complete: 2.69 Mbps (Poor)
+2026-07-13 14:26:01 | INFO     | core.upload_test | Starting upload speed test
+2026-07-13 14:26:11 | INFO     | core.download_test | Starting download speed test
+2026-07-13 14:26:13 | INFO     | core.upload_test | Upload test complete: 3.66 Mbps (Poor)
+2026-07-13 14:26:13 | INFO     | core.ping_test | Pinging host 8.8.8.8 (10 samples)
+2026-07-13 14:26:16 | INFO     | core.ping_test | Ping test complete via 8.8.8.8: 41.12 ms avg (Good)
+2026-07-13 14:26:16 | INFO     | core.jitter | Jitter computed: avg=7.24 min=0.74 max=17.07 current=7.94 (Good)
+2026-07-13 14:26:16 | INFO     | core.packet_loss | Starting packet loss test against 8.8.8.8 (20 packets)
+2026-07-13 14:26:16 | INFO     | core.packet_loss | Packet loss test complete: 0.0% (0/20 lost) (Excellent)
+2026-07-13 14:26:16 | INFO     | core.network_info | Network info detected: ISP=Unknown IP=102.205.238.2 Server=VGG Connect Ltd
+2026-07-13 14:26:16 | INFO     | core.internet_health | Health score computed: 46.7 (Average) [dl=0.03 ul=0.09 ping=0.79 jitter=0.88 loss=1.00]
+2026-07-13 14:26:16 | INFO     | core.database | Inserted test result id=6
+2026-07-13 14:26:17 | INFO     | core.notifier | Notification sent: Poor Internet Quality - Download: 2.7 Mbps, Upload: 3.7 Mbps — below your thresholds.
+2026-07-13 14:26:17 | INFO     | core.scheduler | Full test cycle completed successfully, score=46.7
+2026-07-13 14:26:27 | INFO     | core.download_test | Download test complete: 1.20 Mbps (Poor)
+2026-07-13 14:26:27 | INFO     | core.upload_test | Starting upload speed test
+2026-07-13 14:26:39 | INFO     | core.upload_test | Upload test complete: 3.07 Mbps (Poor)
+2026-07-13 14:26:39 | INFO     | core.ping_test | Pinging host 8.8.8.8 (10 samples)
+2026-07-13 14:26:44 | INFO     | core.ping_test | Ping test complete via 8.8.8.8: 28.85 ms avg (Good)
+2026-07-13 14:26:44 | INFO     | core.jitter | Jitter computed: avg=4.82 min=1.43 max=11.04 current=11.04 (Excellent)
+2026-07-13 14:26:44 | INFO     | core.packet_loss | Starting packet loss test against 8.8.8.8 (20 packets)
+2026-07-13 14:26:48 | INFO     | core.packet_loss | Packet loss test complete: 10.0% (2/20 lost) (Poor)
+2026-07-13 14:26:48 | INFO     | core.network_info | Network info detected: ISP=Unknown IP=102.205.238.2 Server=Zuku
+2026-07-13 14:26:49 | INFO     | core.internet_health | Health score computed: 40.3 (Average) [dl=0.01 ul=0.08 ping=0.86 jitter=0.92 loss=0.50]
+2026-07-13 14:26:49 | INFO     | core.database | Inserted test result id=7
+2026-07-13 14:26:49 | INFO     | core.notifier | Notification sent: High Packet Loss - Packet loss is 10.0%, above your 5.0% threshold.
+2026-07-13 14:26:49 | INFO     | core.scheduler | Full test cycle completed successfully, score=40.3
+2026-07-13 14:26:57 | WARNING  | core.scheduler | No internet connection detected; aborting test
+2026-07-13 14:26:57 | INFO     | core.notifier | Notification sent: Internet Disconnected - Your internet connection appears to be down.
+2026-07-13 14:27:06 | WARNING  | core.scheduler | No internet connection detected; aborting test
+2026-07-13 14:27:30 | WARNING  | core.scheduler | No internet connection detected; aborting test
+2026-07-13 14:27:35 | WARNING  | core.scheduler | No internet connection detected; aborting test
+2026-07-13 14:28:02 | INFO     | core.statistics | Computing analytics for 2026-07-13T13:28:02.814536 -> 2026-07-13T14:28:02.814536 (7 records)
+2026-07-13 14:28:06 | INFO     | core.internet_health | Health score computed: 40.3 (Average) [dl=0.01 ul=0.08 ping=0.86 jitter=0.92 loss=0.50]
+2026-07-13 14:28:06 | INFO     | core.statistics | Computing analytics for 2026-07-06T14:28:06.775225 -> 2026-07-13T14:28:06.775225 (7 records)
+2026-07-13 14:28:13 | INFO     | core.exporter | Exported 7 results to CSV: C:\Users\Administrator\Desktop\internet-performance-monitor\exports\internet_report_last_hour_20260713_142813.csv
+2026-07-13 14:29:00 | INFO     | core.exporter | Exported 7 results to JSON: C:\Users\Administrator\Desktop\internet-performance-monitor\exports\internet_report_last_hour_20260713_142900.json
+2026-07-13 14:29:12 | INFO     | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-07-13 14:29:12 | INFO     | apscheduler.scheduler | Added job "MonitorScheduler._job" to job store "default"
+2026-07-13 14:29:12 | INFO     | apscheduler.scheduler | Scheduler started
+2026-07-13 14:29:12 | INFO     | core.scheduler | Monitoring scheduler started with interval=300s
+2026-07-13 14:29:23 | INFO     | core.statistics | Computing analytics for 2026-07-13T13:29:23.941838 -> 2026-07-13T14:29:23.941838 (7 records)
+2026-07-13 14:29:34 | INFO     | core.download_test | Starting download speed test
+2026-07-13 14:29:43 | INFO     | core.download_test | Starting download speed test
+2026-07-13 14:29:48 | INFO     | core.download_test | Download test complete: 2.69 Mbps (Poor)
+2026-07-13 14:29:48 | INFO     | core.upload_test | Starting upload speed test
+2026-07-13 14:29:59 | INFO     | core.upload_test | Upload test complete: 4.12 Mbps (Poor)
+2026-07-13 14:29:59 | INFO     | core.ping_test | Pinging host 8.8.8.8 (10 samples)
+2026-07-13 14:30:01 | INFO     | core.download_test | Download test complete: 1.69 Mbps (Poor)
+2026-07-13 14:30:01 | INFO     | core.upload_test | Starting upload speed test
+2026-07-13 14:30:04 | INFO     | core.ping_test | Ping test complete via 8.8.8.8: 54.03 ms avg (Good)
+2026-07-13 14:30:04 | INFO     | core.jitter | Jitter computed: avg=14.20 min=3.28 max=44.70 current=3.28 (Good)
+2026-07-13 14:30:04 | INFO     | core.packet_loss | Starting packet loss test against 8.8.8.8 (20 packets)
+2026-07-13 14:30:12 | INFO     | core.upload_test | Upload test complete: 4.81 Mbps (Poor)
+2026-07-13 14:30:12 | INFO     | core.ping_test | Pinging host 8.8.8.8 (10 samples)
+2026-07-13 14:30:12 | INFO     | core.ping_test | Ping test complete via 8.8.8.8: 34.79 ms avg (Good)
+2026-07-13 14:30:12 | INFO     | core.jitter | Jitter computed: avg=3.89 min=0.38 max=9.39 current=0.38 (Excellent)
+2026-07-13 14:30:12 | INFO     | core.packet_loss | Starting packet loss test against 8.8.8.8 (20 packets)
+2026-07-13 14:30:15 | INFO     | core.packet_loss | Packet loss test complete: 25.0% (5/20 lost) (Poor)
+2026-07-13 14:30:15 | INFO     | core.network_info | Network info detected: ISP=Unknown IP=102.205.238.2 Server=Zuku
+2026-07-13 14:30:15 | INFO     | core.internet_health | Health score computed: 28.9 (Poor) [dl=0.03 ul=0.10 ping=0.73 jitter=0.76 loss=0.00]
+2026-07-13 14:30:15 | INFO     | core.database | Inserted test result id=8
+2026-07-13 14:30:15 | INFO     | core.notifier | Notification sent: Connection Restored - Your internet connection has been restored.
+2026-07-13 14:30:15 | INFO     | core.scheduler | Full test cycle completed successfully, score=28.9
+2026-07-13 14:30:21 | INFO     | core.packet_loss | Packet loss test complete: 20.0% (4/20 lost) (Poor)
+2026-07-13 14:30:21 | INFO     | core.network_info | Network info detected: ISP=Unknown IP=102.205.238.2 Server=VGG Connect Ltd
+2026-07-13 14:30:21 | INFO     | core.internet_health | Health score computed: 33.5 (Poor) [dl=0.02 ul=0.12 ping=0.83 jitter=0.94 loss=0.00]
+2026-07-13 14:30:21 | INFO     | core.database | Inserted test result id=9
+2026-07-13 14:30:21 | INFO     | core.scheduler | Full test cycle completed successfully, score=33.5
+2026-07-13 14:30:42 | INFO     | core.download_test | Starting download speed test
+2026-07-13 14:30:59 | INFO     | core.download_test | Download test complete: 1.30 Mbps (Poor)
+2026-07-13 14:30:59 | INFO     | core.upload_test | Starting upload speed test
+2026-07-13 14:31:10 | INFO     | core.upload_test | Upload test complete: 4.84 Mbps (Poor)
+2026-07-13 14:31:10 | INFO     | core.ping_test | Pinging host 8.8.8.8 (10 samples)
+2026-07-13 14:31:10 | INFO     | core.ping_test | Ping test complete via 8.8.8.8: 35.46 ms avg (Good)
+2026-07-13 14:31:10 | INFO     | core.jitter | Jitter computed: avg=2.19 min=0.28 max=3.37 current=1.83 (Excellent)
+2026-07-13 14:31:10 | INFO     | core.packet_loss | Starting packet loss test against 8.8.8.8 (20 packets)
+2026-07-13 14:31:11 | INFO     | core.packet_loss | Packet loss test complete: 0.0% (0/20 lost) (Excellent)
+2026-07-13 14:31:11 | INFO     | core.network_info | Network info detected: ISP=Unknown IP=102.205.238.2 Server=VGG Connect Ltd
+2026-07-13 14:31:11 | INFO     | core.internet_health | Health score computed: 48.7 (Average) [dl=0.01 ul=0.12 ping=0.82 jitter=0.96 loss=1.00]
+2026-07-13 14:31:11 | INFO     | core.database | Inserted test result id=10
+2026-07-13 14:31:11 | INFO     | core.scheduler | Full test cycle completed successfully, score=48.7
+2026-07-13 14:31:39 | INFO     | core.statistics | Computing analytics for 2026-07-13T13:31:39.111572 -> 2026-07-13T14:31:39.111572 (10 records)
+2026-07-13 14:31:41 | INFO     | core.internet_health | Health score computed: 48.7 (Average) [dl=0.01 ul=0.12 ping=0.82 jitter=0.96 loss=1.00]
+2026-07-13 14:31:41 | INFO     | core.statistics | Computing analytics for 2026-07-06T14:31:41.444136 -> 2026-07-13T14:31:41.444136 (10 records)
+2026-07-13 14:34:12 | INFO     | apscheduler.executors.default | Running job "MonitorScheduler._job (trigger: interval[0:05:00], next run at: 2026-07-13 14:34:12 EAT)" (scheduled at 2026-07-13 14:34:12.734114+03:00)
+2026-07-13 14:34:14 | INFO     | core.download_test | Starting download speed test
+2026-07-13 14:34:29 | INFO     | core.download_test | Download test complete: 1.26 Mbps (Poor)
+2026-07-13 14:34:29 | INFO     | core.upload_test | Starting upload speed test
+2026-07-13 14:34:40 | INFO     | core.upload_test | Upload test complete: 4.30 Mbps (Poor)
+2026-07-13 14:34:40 | INFO     | core.ping_test | Pinging host 8.8.8.8 (10 samples)
+2026-07-13 14:34:40 | INFO     | core.ping_test | Ping test complete via 8.8.8.8: 35.52 ms avg (Good)
+2026-07-13 14:34:40 | INFO     | core.jitter | Jitter computed: avg=2.21 min=0.04 max=5.17 current=1.69 (Excellent)
+2026-07-13 14:34:40 | INFO     | core.packet_loss | Starting packet loss test against 8.8.8.8 (20 packets)
+2026-07-13 14:34:41 | INFO     | core.packet_loss | Packet loss test complete: 0.0% (0/20 lost) (Excellent)
+2026-07-13 14:34:41 | INFO     | core.network_info | Network info detected: ISP=Unknown IP=102.205.238.2 Server=Zuku
+2026-07-13 14:34:41 | INFO     | core.internet_health | Health score computed: 48.4 (Average) [dl=0.01 ul=0.11 ping=0.82 jitter=0.96 loss=1.00]
+2026-07-13 14:34:41 | INFO     | core.database | Inserted test result id=11
+2026-07-13 14:34:41 | INFO     | core.notifier | Notification sent: Poor Internet Quality - Download: 1.3 Mbps, Upload: 4.3 Mbps — below your thresholds.
+2026-07-13 14:34:41 | INFO     | core.scheduler | Full test cycle completed successfully, score=48.4
+2026-07-13 14:34:41 | INFO     | apscheduler.executors.default | Job "MonitorScheduler._job (trigger: interval[0:05:00], next run at: 2026-07-13 14:39:12 EAT)" executed successfully
+2026-07-13 14:35:02 | INFO     | core.download_test | Starting download speed test
+2026-07-13 14:35:16 | INFO     | core.download_test | Download test complete: 2.15 Mbps (Poor)
+2026-07-13 14:35:16 | INFO     | core.upload_test | Starting upload speed test
+2026-07-13 14:35:27 | INFO     | core.upload_test | Upload test complete: 4.15 Mbps (Poor)
+2026-07-13 14:35:27 | INFO     | core.ping_test | Pinging host 8.8.8.8 (10 samples)
+2026-07-13 14:35:27 | INFO     | core.ping_test | Ping test complete via 8.8.8.8: 41.22 ms avg (Good)
+2026-07-13 14:35:27 | INFO     | core.jitter | Jitter computed: avg=10.88 min=0.47 max=25.30 current=8.59 (Good)
+2026-07-13 14:35:27 | INFO     | core.packet_loss | Starting packet loss test against 8.8.8.8 (20 packets)
+2026-07-13 14:35:28 | INFO     | core.packet_loss | Packet loss test complete: 0.0% (0/20 lost) (Excellent)
+2026-07-13 14:35:28 | INFO     | core.network_info | Network info detected: ISP=Unknown IP=102.205.238.2 Server=Zuku
+2026-07-13 14:35:28 | INFO     | core.internet_health | Health score computed: 45.9 (Average) [dl=0.02 ul=0.10 ping=0.79 jitter=0.82 loss=1.00]
+2026-07-13 14:35:28 | INFO     | core.database | Inserted test result id=12
+2026-07-13 14:35:28 | INFO     | core.notifier | Notification sent: Poor Internet Quality - Download: 2.1 Mbps, Upload: 4.2 Mbps — below your thresholds.
+2026-07-13 14:35:28 | INFO     | core.scheduler | Full test cycle completed successfully, score=45.9
+2026-07-13 14:36:48 | INFO     | core.download_test | Starting download speed test
+2026-07-13 14:36:59 | INFO     | core.download_test | Download test complete: 2.86 Mbps (Poor)
+2026-07-13 14:36:59 | INFO     | core.upload_test | Starting upload speed test
+2026-07-13 14:37:10 | INFO     | core.upload_test | Upload test complete: 4.57 Mbps (Poor)
+2026-07-13 14:37:10 | INFO     | core.ping_test | Pinging host 8.8.8.8 (10 samples)
+2026-07-13 14:37:11 | INFO     | core.ping_test | Ping test complete via 8.8.8.8: 38.54 ms avg (Good)
+2026-07-13 14:37:11 | INFO     | core.jitter | Jitter computed: avg=13.32 min=0.51 max=45.21 current=4.95 (Good)
+2026-07-13 14:37:11 | INFO     | core.packet_loss | Starting packet loss test against 8.8.8.8 (20 packets)
+2026-07-13 14:37:15 | INFO     | core.packet_loss | Packet loss test complete: 10.0% (2/20 lost) (Poor)
+2026-07-13 14:37:15 | INFO     | core.network_info | Network info detected: ISP=Unknown IP=102.205.238.2 Server=Zuku
+2026-07-13 14:37:15 | INFO     | core.internet_health | Health score computed: 38.5 (Poor) [dl=0.03 ul=0.11 ping=0.81 jitter=0.78 loss=0.50]
+2026-07-13 14:37:15 | INFO     | core.database | Inserted test result id=13
+2026-07-13 14:37:15 | INFO     | core.notifier | Notification sent: High Packet Loss - Packet loss is 10.0%, above your 5.0% threshold.
+2026-07-13 14:37:15 | INFO     | core.scheduler | Full test cycle completed successfully, score=38.5
+2026-07-13 14:38:30 | WARNING  | core.scheduler | No internet connection detected; aborting test
+2026-07-13 14:38:30 | INFO     | core.notifier | Notification sent: Internet Disconnected - Your internet connection appears to be down.
+2026-07-13 14:39:12 | INFO     | apscheduler.executors.default | Running job "MonitorScheduler._job (trigger: interval[0:05:00], next run at: 2026-07-13 14:44:12 EAT)" (scheduled at 2026-07-13 14:39:12.734114+03:00)
+2026-07-13 14:39:15 | WARNING  | core.scheduler | No internet connection detected; aborting test
+2026-07-13 14:39:15 | INFO     | apscheduler.executors.default | Job "MonitorScheduler._job (trigger: interval[0:05:00], next run at: 2026-07-13 14:44:12 EAT)" executed successfully
+2026-07-13 14:44:12 | INFO     | apscheduler.executors.default | Running job "MonitorScheduler._job (trigger: interval[0:05:00], next run at: 2026-07-13 14:49:12 EAT)" (scheduled at 2026-07-13 14:44:12.734114+03:00)
+2026-07-13 14:44:17 | INFO     | core.download_test | Starting download speed test
+2026-07-13 14:44:38 | INFO     | core.download_test | Download test complete: 0.62 Mbps (Poor)
+2026-07-13 14:44:38 | INFO     | core.upload_test | Starting upload speed test
+2026-07-13 14:44:49 | INFO     | core.upload_test | Upload test complete: 4.83 Mbps (Poor)
+2026-07-13 14:44:49 | INFO     | core.ping_test | Pinging host 8.8.8.8 (10 samples)
+2026-07-13 14:44:49 | INFO     | core.ping_test | Ping test complete via 8.8.8.8: 34.26 ms avg (Good)
+2026-07-13 14:44:49 | INFO     | core.jitter | Jitter computed: avg=5.97 min=0.01 max=15.90 current=0.01 (Good)
+2026-07-13 14:44:49 | INFO     | core.packet_loss | Starting packet loss test against 8.8.8.8 (20 packets)
+2026-07-13 14:44:52 | INFO     | core.packet_loss | Packet loss test complete: 5.0% (1/20 lost) (Average)
+2026-07-13 14:44:52 | INFO     | core.network_info | Network info detected: ISP=Unknown IP=102.205.238.2 Server=Zuku
+2026-07-13 14:44:52 | INFO     | core.internet_health | Health score computed: 43.9 (Average) [dl=0.01 ul=0.12 ping=0.83 jitter=0.90 loss=0.75]
+2026-07-13 14:44:52 | INFO     | core.database | Inserted test result id=14
+2026-07-13 14:44:52 | INFO     | core.notifier | Notification sent: Connection Restored - Your internet connection has been restored.
+2026-07-13 14:44:52 | INFO     | core.notifier | Notification sent: Poor Internet Quality - Download: 0.6 Mbps, Upload: 4.8 Mbps — below your thresholds.
+2026-07-13 14:44:52 | INFO     | core.scheduler | Full test cycle completed successfully, score=43.9
+2026-07-13 14:44:52 | INFO     | apscheduler.executors.default | Job "MonitorScheduler._job (trigger: interval[0:05:00], next run at: 2026-07-13 14:49:12 EAT)" executed successfully
+2026-07-13 14:45:06 | WARNING  | core.scheduler | No internet connection detected; aborting test
+2026-07-13 14:45:06 | INFO     | core.notifier | Notification sent: Internet Disconnected - Your internet connection appears to be down.
+2026-07-13 14:45:13 | WARNING  | core.scheduler | No internet connection detected; aborting test
+2026-07-13 14:45:13 | INFO     | core.notifier | Notification sent: Internet Disconnected - Your internet connection appears to be down.
+2026-07-13 14:45:13 | WARNING  | desktop.main_window | Test failed: No internet connection

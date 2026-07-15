@@ -1,0 +1,8 @@
+id,datetime,download_speed,upload_speed,ping,jitter,packet_loss,isp,server,city,country,internet_score
+1,2026-07-13T14:15:00.634406,4.47,4.45,280.95,548.9,0.0,Unknown,Zuku,Nairobi,US,18.6
+2,2026-07-13T14:17:41.268935,4.39,4.79,30.49,7.55,0.0,Unknown,VGG Connect Ltd,Nairobi,US,48.8
+3,2026-07-13T14:21:01.775352,4.64,4.6,32.83,4.57,0.0,Unknown,VGG Connect Ltd,Nairobi,US,49.3
+4,2026-07-13T14:21:50.442582,3.88,4.49,33.42,2.03,0.0,Unknown,Zuku,Nairobi,US,49.6
+5,2026-07-13T14:24:54.040768,4.07,4.38,39.71,4.04,0.0,Unknown,Zuku,Nairobi,US,48.4
+6,2026-07-13T14:26:16.952632,2.69,3.66,41.12,7.24,0.0,Unknown,VGG Connect Ltd,Nairobi,US,46.7
+7,2026-07-13T14:26:49.002171,1.2,3.07,28.85,4.82,10.0,Unknown,Zuku,Nairobi,US,40.3
