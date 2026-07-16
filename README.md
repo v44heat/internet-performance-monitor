@@ -80,7 +80,7 @@ The application follows a clean, layered architecture:
 
 1. **`core/`** — pure business logic (network testing, scoring, persistence, scheduling). No UI dependencies; fully unit-testable.
 2. **`config/`** — shared constants, theming, and user settings consumed by every layer.
-3. **`utils/`** — cross-cutting helpers (logging, formatting, validation).
+3. **`utils/`** — cross-cutting helpers (logging, formatting and validation).
 4. **`dashboard/` & `desktop/`** — three independent presentation layers built entirely on top of `core/`, so any UI can be added/removed without touching business logic.
 
 All network tests execute on background threads (QThread in the desktop app, APScheduler worker threads for continuous monitoring), so no UI ever freezes during a multi-second speed test.
