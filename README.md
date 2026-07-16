@@ -66,11 +66,7 @@ python desktop/main_window.py
 
 ---
 
-## 🧪 Running Tests
 
-```bash
-python -m unittest discover -s tests -v
-```
 
 ---
 
