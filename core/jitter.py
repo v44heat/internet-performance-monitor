@@ -1,5 +1,5 @@
 """
-jitter.py
+jitter.py  
 =========
 Computes network jitter — the variation in latency between
 consecutive ping samples — from a list of raw ping samples produced
